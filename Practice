@@ -1,0 +1,23 @@
+Practice
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i or -o; assuming --only paths...
+# On branch master
+# Changes to be committed:
+#	new file:   cgi/pom.xml
+#	new file:   cgi/src/main/java/com/cgi/App.java
+#	new file:   cgi/src/test/java/com/cgi/AppTest.java
+#	new file:   cgi/target/cgi-1.0-SNAPSHOT.jar
+#	new file:   cgi/target/classes/com/cgi/App.class
+#	new file:   cgi/target/maven-archiver/pom.properties
+#	new file:   cgi/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+#	new file:   cgi/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+#	new file:   cgi/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+#	new file:   cgi/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+#	new file:   cgi/target/surefire-reports/TEST-com.cgi.AppTest.xml
+#	new file:   cgi/target/surefire-reports/com.cgi.AppTest.txt
+#	new file:   cgi/target/test-classes/com/cgi/AppTest.class
+#
+# Untracked files:
+#	cgi commit
+#
